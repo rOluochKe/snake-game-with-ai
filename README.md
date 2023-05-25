@@ -7,3 +7,21 @@ I begun by establishing the fundamental concepts of reinforcement learning and i
 Throughout the tutorial, I covered crucial topics such as Q-learning, exploration vs. exploitation, and experience replay to improve our agent's learning process. I also provided insightful tips on optimizing the training process and visualizing the agent's performance.
 
 By the end, we have a complete understanding of how to train an AI agent to master Snake using reinforcement learning techniques, PyTorch, and Pygame. Let's embark on this thrilling journey into the world of AI and gaming!
+
+## Views
+
+<p align="center">
+  <img src="screenshots/Capture1.PNG" width="800" />
+</p>
+
+
+<p align="center">
+  <img src="screenshots/Capture2.PNG" width="800" />
+</p>
+
+## Setup
+
+- Clone the project: `git@github.com:rOluochKe/snake-game-with-ai.git`
+- Change directory into : `cd /snake-game-with-ai`
+- Create your environment and install dependencies: `pip install -r requirements.txt`
+- Run the game: `python agent.py`
